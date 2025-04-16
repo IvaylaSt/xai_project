@@ -30,7 +30,7 @@ The objective is to create a predictive model that can classify whether a loan a
 
 ```bash
 git clone https://github.com/IvaylaSt/xai_project.git
-cd xai-project
+cd xai_project
 ```
 
 ### 2. Install Dependencies
