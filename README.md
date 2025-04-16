@@ -43,10 +43,10 @@ pip install -r requirements.txt
 
 ### 3. Run the Notebook
 
-Open the Jupyter notebook:
+Open the Jupyter notebook (in Anaconda Prompt):
 
 ```bash
-jupyter notebook xai.ipynb
+jupyter notebook xai_project.ipynb
 ```
 
 ## Notebook Breakdown
